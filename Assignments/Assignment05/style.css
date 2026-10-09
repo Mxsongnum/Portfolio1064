@@ -1,0 +1,69 @@
+body{
+    background-color: #fffffd;
+}
+h1{
+    font-family: 'Fredoka', sans-serif;
+    text-align: center;
+    font-size: 70px;
+    margin-top: 12px;
+    padding-top: 15px;
+    color: #a6c86a;
+}
+
+#topic, #reply1, #reply2{
+    background-color: #ffffff;
+    border: 2px solid #a6c86a;
+    border-radius: 10px;
+    padding: 15px 20px;
+    margin: 15px auto;
+    font-family: 'Fredoka', sans-serif;
+    min-height: 60px;
+    max-width: 700px;
+}
+textarea{
+    background-color: #ffffff;
+    border: 2px solid #a6c86a;
+    border-radius: 10px;
+    padding: 15px 20px;
+    margin: 15px auto;
+    font-family: 'Fredoka', sans-serif;
+    min-height: 60px;
+    max-width: 700px;
+}
+
+
+button{
+    color: #201c1c;
+    background-color: #a6c86a;
+    font-family:'Fredoka', sans-serif ;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    max-width: auto;
+    border: 2px solid #a6c86a;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.buttonC{
+    color: #a6c86a;
+    background-color:#f5f5f5 ;
+    font-family:'Fredoka', sans-serif ;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    max-width: auto;
+    border: 2px solid #a6c86a;
+    border-radius: 10px;
+    
+}
+
+
+.grid-container{
+
+    background-color: #f5f5f5;
+    text-align: center;
+    border-radius: 15px;
+    height: auto;
+
+
+}
